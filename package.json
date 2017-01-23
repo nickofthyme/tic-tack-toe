@@ -1,0 +1,25 @@
+{
+  "name": "tic-tack-toe",
+  "version": "1.0.0",
+  "description": "simple tic-tack-toe app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickofthyme/tic-tack-toe.git"
+  },
+  "keywords": [
+    "tic",
+    "tack",
+    "toe",
+    "game"
+  ],
+  "author": "Nick Partridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickofthyme/tic-tack-toe/issues"
+  },
+  "homepage": "https://github.com/nickofthyme/tic-tack-toe#readme"
+}
